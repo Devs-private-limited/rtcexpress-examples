@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env*
+.dart_tool/
+build/
+.packages
+.flutter-plugins*
+react-native-voice-call/config.ts
